@@ -10,7 +10,7 @@
                         "display_data": {
                             "name": "mint",
                             "description": "grow your savings. 3x faster.",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/1mb18g6/homeimage.png"
                         }
                     },
                     {
@@ -18,7 +18,7 @@
                         "display_data": {
                             "name": "bank accounts",
                             "description": "check your bank balance",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/TBy8Vj9/bank.png"
                         }
                     },
                     {
@@ -26,7 +26,7 @@
                         "display_data": {
                             "name": "Scan n Pay",
                             "description": "Scan and Pay&pay",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/q01JZrX/sqr.png"
                         }
                     }
                 ]
@@ -42,23 +42,32 @@
                         "display_data": {
                             "name": "utility & all bills",
                             "description": "the most rewarding way to pay your bills",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/T8hG8Sd/notes.png"
                         }
                     },
+                     {
+                        "id": "credit_card_bills",
+                        "display_data": {
+                            "name": "credit card bills",
+                            "description": "check your credit card bills",
+                            "icon_url": " https://i.ibb.co/n0y0GNM/card.png"
+                        }
+                     },
                     {
                         "id": "house_rent",
                         "display_data": {
                             "name": "house rent",
                             "description": "pay rent with your credit card",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/4fqGFvt/homw.png"
                         }
                     },
+                   
                     {
                         "id": "education_fees",
                         "display_data": {
                             "name": "education fees",
                             "description": "pay education fees with your credit card",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/SJ4Bptt/book.png"
                         }
                     }
                 ]
@@ -74,7 +83,7 @@
                         "display_data": {
                             "name": "rewards",
                             "description": "redeem coins for cashback",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/9yY5zm3/badge.png"
                         }
                     },
                     {
@@ -82,7 +91,7 @@
                         "display_data": {
                             "name": "refer & earn",
                             "description": "assured cashback for bringing friends to CRED",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/zsv99vR/gift.png"
                         }
                     },
                     {
@@ -90,7 +99,7 @@
                         "display_data": {
                             "name": "coins",
                             "description": "use coins to claim rewards and other perks",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/fMzNMTC/coin.png"
                         }
                     },
                     {
@@ -98,7 +107,7 @@
                         "display_data": {
                             "name": "vouchers",
                             "description": "vouchers you have won",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/5BKQQRB/star.png"
                         }
                     },
                     {
@@ -106,7 +115,7 @@
                         "display_data": {
                             "name": "brand offers",
                             "description": "get exclusive offers on brands while using CRED pay",
-                            "icon_url": "https://someicon.png"
+                            "icon_url": "https://i.ibb.co/sRYDY0p/discount.png"
                         }
                     }
                 ]
